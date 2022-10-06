@@ -1,0 +1,218 @@
+[
+    {
+        "question":"Where are you from?",
+        "choice1":"I'm from Turkish",
+        "choice2":"I'm from Turkey",
+        "choice3":"I'm Turkey",
+        "choice4":"I'm Turkey frım",
+        "answer":2
+    },
+    {
+        "question":"How old are you?",
+        "choice1":"Fine, thanx",
+        "choice2":"Nice to meet you",
+        "choice3":"I'm eleven",
+        "choice4":"I like Maths",
+        "answer":3
+    },
+    {
+        "question":"I’m Nina . I’m from ......... . I speak Greek.",
+        "choice1":"Greece",
+        "choice2":"Germany",
+        "choice3":"Canada",
+        "choice4":"Italy",
+        "answer": 1
+    },
+    {
+        "question":" A: Where do you ……..?    B: At Atatürk Secondary school",
+        "choice1":"go",
+        "choice2":"sleep",
+        "choice3":"write",
+        "choice4":"study",
+        "answer": 4
+    },
+    {
+        "question":"Afganistan'daki selde evleri yıkılan çocukların hangi haklarından mahrum kaldığı söylenebilir",
+        "choice1":"Beslenme",
+        "choice2":"Barınma",
+        "choice3":"Yaşama",
+        "choice4":"Eğitim",
+        "answer": 2
+    },
+    {
+        "question":"Hangi cümleyi kuran çocuk bir çocuk hakkını ihlal etmiş olur?",
+        "choice1":"Her sabah okula gidiyorum",
+        "choice2":"Hastalandığımda doktora gidiyorum",
+        "choice3":"Pazar günleri simit satıyorum",
+        "choice4":"Boş zamanlarımda kitap okuyorum",
+        "answer": 3
+    },
+    {
+        "question":"Cem:'I like doing experience'. What is his favourite lesson?",
+        "choice1":"Science",
+        "choice2":"P.E.",
+        "choice3":"Maths",
+        "choice4":"Social Studies",
+        "answer": 1
+    },
+    {
+        "question":"Ali'nin kumbarasında 16 ? var. Her hafta kumbaradaki paranın yarısı kadar para kumbaraya attığına göre 4 hafta sonra ne kadar parası olur?",
+        "choice1":"72",
+        "choice2":"61",
+        "choice3":"80",
+        "choice4":"81",
+        "answer": 4
+    },
+    {
+        "question":"14,A,32,41,B,C örüntüsünde A+B+C kaçtır",
+        "choice1":"134",
+        "choice2":"144",
+        "choice3":"132",
+        "choice4":"123",
+        "answer": 3
+    },
+    {
+        "question":"Hangisinde mecaz anlamlı bir kelime vardır?",
+        "choice1":"Yorulduğum için gece erken yattım",
+        "choice2":"Sinirlenince hırsla masaya vurdu",
+        "choice3":"Toprak yolda ilerlemek çok zor oldu",
+        "choice4":"Sinemaya gidemeyince biletler yandı",
+        "answer": 4
+    },
+    {
+        "question":"Güneş ile ilgili hangisi yanlıştır?",
+        "choice1":"Yaydığı enerjini tamamı Dünya'ya ulaşır",
+        "choice2":"İç kısmı, yüzeyinden daha sıcaktır",
+        "choice3":"Gaz halindedir",
+        "choice4":"Yaydığı enerji Dünya'daki yaşam için gereklidir",
+        "answer": 1
+    },
+    {
+        "question":"Hangisi ortaokuldaki bir çocuğun çocuk haklarına aykırıdır?",
+        "choice1":"Çocukların aile kurmasının desteklenmesi",
+        "choice2":"Çocukların temel ihtiyaçlarının karşılanması",
+        "choice3":"Çocukların duygu ve düşüncelerini açıklayabilmesi",
+        "choice4":"Çocukların sağlığının korunması",
+        "answer": 1
+    },
+    {
+        "question":"Hangilerin çocukların haklarından değildir?",
+        "choice1":"Eğitim hakkı",
+        "choice2":"Eğlenme hakkı",
+        "choice3":"Yaşama hakkı",
+        "choice4":"Çalıştırılma hakkı",
+        "answer": 4
+    },
+    {
+        "question":"'İki yüz on milyon kırkbin yetmiş beş' sayısınını yazılışı hangisidir?",
+        "choice1":"210 040 075",
+        "choice2":"201 407 505",
+        "choice3":"210 407 050",
+        "choice4":"210 047 750",
+        "answer": 1
+    },
+    {
+        "question":"Hangisinde terim anlamlı bir kelime kullanılmştır?",
+        "choice1":"Uyanır uyanmaz parka gidip koştum",
+        "choice2":"Eşyalarını boş bir kutuya doldurdu",
+        "choice3":"Anlayışlı bir ev sahibiydi bizimki",
+        "choice4":"Anlayamadım gitti şu fonksiyonlar konusunu",
+        "answer": 4
+    },
+    {
+        "question":"Hangisinde mecaz anlamda kullanılan bir kelime vardır?",
+        "choice1":"Bahçeye yeni gül fideleri diktim",
+        "choice2":"Boş sözlerle bize zaman kaybettirdi",
+        "choice3":"Başımın ağrısı sürekli şiddetlendi",
+        "choice4":"Dondurmanın tadını çok beğendi ",
+        "answer": 2
+    },
+    {
+        "question":"Doğal bir ısı ve ışık kaynağıdır. Sıcak gazlardan oluşur. Verilen bilgiler hangisine aittir?",
+        "choice1":"Dünya",
+        "choice2":"Ay",
+        "choice3":"Güneş",
+        "choice4":"Mars",
+        "answer": 3
+    },
+    {
+        "question":"Galileo, Güneşin kendi ekseninde döndüğünü gözlemlemek için hangi aracı kullanılmıştır?",
+        "choice1":"Büyüteç",
+        "choice2":"Mikroskop",
+        "choice3":"Steteskop",
+        "choice4":"Teleskop",
+        "answer": 4
+    },
+    {
+        "question":"Hangisi çocuk haklarından biri değildir?",
+        "choice1":"Eğitim Hakkı",
+        "choice2":"Barınma Hakkı",
+        "choice3":"İşte Çalışma Hakkı",
+        "choice4":"Beslenme Hakkı",
+        "answer": 3
+    },
+    {
+        "question":"Odd one out",
+        "choice1":"Cafe",
+        "choice2":"salad",
+        "choice3":"hotel",
+        "choice4":"cinema",
+        "answer": 3
+    },
+    {
+        "question":"'21 A7A 396' sayısının sayı değerleri toplamı 32 olduğuna göre 'A' kaçtır?",
+        "choice1":"2",
+        "choice2":"3",
+        "choice3":"4",
+        "choice4":"5",
+        "answer": 1
+    },
+    {
+        "question":"Güneş ile ilgili verilen bilgilerden hangisi yanlıştır?",
+        "choice1":"Orta büyüklükte bir yıldızdır",
+        "choice2":"Doğal bir ışık kaynağıdır",
+        "choice3":"Yüzeyi 6000 derece sıcaklıktadır",
+        "choice4":"Hareketsizdir,sürekli sabit durur",
+        "answer": 4
+    },
+    {
+        "question":"'Sert' kelimesin hangisinde mecaz anlamda kullanılmıştır",
+        "choice1":"Sert kapaklı defterden iki tane al",
+        "choice2":"Bana sert davranmandan hoşlanmıyorum",
+        "choice3":"Erikler sert olduğundan yiyemedik",
+        "choice4":"Bu yatak çok sert uyuyamıyorum",
+        "answer": 2
+    },
+    {
+        "question":"Aşağıdakilerden hangisinde mecaz anlam kullanılmıştır?",
+        "choice1":"Gözlükleri kirden görünmüyor",
+        "choice2":"Derin hayallere dalan öğrenci dersi dinlemedi",
+        "choice3":"Penaltıdan golu attım",
+        "choice4":"Üçgenin iç açıları toplamı 180 derecedir",
+        "answer": 2
+    },
+    {
+        "question":"Ayın özellikleri ile ilgili hangisi yanlıştır?",
+        "choice1":"Küre şeklindedir",
+        "choice2":"Farklı gecelerde farklı şekillerde görürüz",
+        "choice3":"Güneş gibi bir ışık kaynağıdır",
+        "choice4":"Dğnya etrafında dönüşü sırasında ışık alan kısmı değişir",
+        "answer": 3
+    },
+    {
+        "question":"ABCD  - 2392 = 8173 işleminde A+B+C+D=?",
+        "choice1":"32",
+        "choice2":"22",
+        "choice3":"19",
+        "choice4":"21",
+        "answer": 4
+    },
+    {
+        "question":"Güneş, Ay'dan daha büyük olmasına rağmen Dünya'dan baktığımızda neden küçük olarak görürüz?",
+        "choice1":"Güneş gündüzleri göründüğü için ",
+        "choice2":"Güneş, Ay'dan daha yakın olduğu için",
+        "choice3":"Güneş, Ay'dan daha uzak olduğu için",
+        "choice4":"Ay geceleri göründüğü için",
+        "answer": 3
+    }
+    ]
